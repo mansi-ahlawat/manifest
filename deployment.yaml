@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: mansiahlawat/node-app:dev-v76
+        image: mansiahlawat/node-app:dev-v77
         ports:
         - containerPort: 3000
