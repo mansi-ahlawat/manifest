@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: node-app-prod
-        image: mansiahlawat/node-app:prod-v3
+        image: mansiahlawat/node-app:prod-v4
         ports:
         - containerPort: 3000
