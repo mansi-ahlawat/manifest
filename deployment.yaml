@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: node-app-stage
-        image: mansiahlawat/node-app:stage-v18
+        image: mansiahlawat/node-app:stage-v19
         ports:
         - containerPort: 3000
