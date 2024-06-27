@@ -18,3 +18,5 @@ spec:
         image: mansiahlawat/node-app:prod-v19
         ports:
         - containerPort: 3000
+      imagePullSecrets:
+         - name: myregistrykey
