@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: node-app
-        image: mansiahlawat/node-app:artifact-v1
+        image: mansiahlawat/node-app:artifact-vartifact-2
         ports:
         - containerPort: 3000
