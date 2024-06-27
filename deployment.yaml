@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: node-app-stage
-        image: mansiahlawat/node-app:stage-v24
+        image: mansiahlawat/node-app:stage-v2
         ports:
         - containerPort: 3000
       imagePullSecrets:
