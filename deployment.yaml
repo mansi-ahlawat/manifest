@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: node-app-prod
-        image: mansiahlawat/node-app:artifact-8
+        image: mansiahlawat/node-app:artifact-14
         ports:
         - containerPort: 3000
       imagePullSecrets:
