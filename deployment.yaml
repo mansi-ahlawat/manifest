@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: node-app-stage
-        image: mansiahlawat/node-app:artifact-13
+        image: mansiahlawat/node-app:artifact-14
         ports:
         - containerPort: 3000
       imagePullSecrets:
